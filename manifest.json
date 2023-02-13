@@ -1,6 +1,6 @@
 {
     "name":"SKILLHUB",
-    "start_url":"/PWA",
+    "start_url":"/tic_tac_toe_game",
     "display":"standalone",
     "icons":[
         {
