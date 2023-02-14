@@ -1,11 +1,11 @@
 {
-    "name":"TIC_TAC_TOE",
-    "short_name":"XnO",
+    "name":"tic_tac_toe_game",
+    "short_name":"X&O",
     "start_url":"/tic_tac_toe_game",
     "background_color":"red",
     "theme_color":"coral",
     "display":"standalone",
-    "desceiption":"Best Game Ever created By Me",
+    "description":"Best Game Ever created By Me",
     "icons":[
        
         {
