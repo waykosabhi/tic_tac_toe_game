@@ -1,28 +1,37 @@
-#Tic-Tac-Toe
 
-This project is a simple tic-tac-toe game built with HTML, CSS, and JavaScript.
+## Authors
 
-##Features
+- [@waykosabhi](https://github.com/waykosabhi)
 
-- Player vs Player mode
-- Player vs Computer mode
-- Responsive design for mobile
 
-##How to Play
+## 🚀 About Me
 
-1. Choose Player vs Player or Player vs Computer
-2. Click a square to start the game
-3. Take turns clicking squares to get three in a row
-4. The first player to get three in a row wins
+Name: Abhishek Waykos
 
-##Installation
+Job Title: Full Stack Developer
 
-No installation required. Just open the index.html file in your browser to play.
+Education: Bachelor's Degree in Computer Science
 
-##Contributing
+Skills: HTML, CSS, JavaScript, React, Python, Node.js, MySQL, MongoDB
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Experience: fresher  a full stack developer
 
-##License
+Specializations: Web application development, mobile application development, database development, API development
 
-This project is licensed under the MIT License.
+Interests: Keeping up with the latest web development trends, playing video games, reading
+
+Hobbies: Going to the movies, exploring new technologies, playing sports
+
+Achievements: Developed an award-winning web application, created a successful mobile application with over 1 million downloads
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
