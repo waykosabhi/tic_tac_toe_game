@@ -1,5 +1,5 @@
 {
-    "name":"tic_tac_toe_game",
+    "name":"TIC_TAC_TOE",
     "short_name":"X&O",
     "start_url":"/tic_tac_toe_game",
     "background_color":"red",
